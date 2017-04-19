@@ -1,12 +1,8 @@
-<html>
-<head>
-<title>Maria Rodriguez!</title>
-<link rel="stylesheet" href="style.css">
-</head>
-<body>
-<h1>MARIA IS LAME</h1>
-<img src="pepe.jpg">
-<p id="maria">This is Maria 25/8.</p>
-<p>All she odes is look at memes all day and tag people in it cuz she has no life lol.
-</body>
-</html>
+h1{
+	font-size:60px;
+	color:green
+}
+#maria{
+	font-size:30px;
+	color:blue;
+}
